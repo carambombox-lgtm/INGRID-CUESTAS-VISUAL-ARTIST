@@ -16,5 +16,4 @@ This project highlights Ingrid’s artistic research practice, centered on mater
 - **Documentation:** See the `/documentation` folder
 
 ## Keywords
-ancestry, earth, ritual, embodiment, materiality, regeneration, territory
-Folder for concept, cosmology, diagrams, labs and Entelia integration.
+ancestry, earth, elements, cosmos, edible biopolymers, transmutation, materialization, materiality, regeneration, territory.
