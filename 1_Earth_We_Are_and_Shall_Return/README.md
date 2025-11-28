@@ -1,6 +1,6 @@
 # Earth We Are and Shall Return
 
-**Years:** 2020 – 2023  
+**Years:** 2021 – 2023  
 **Medium / Format:** Multidisciplinary (performance, culinary ritual, installation, video)  
 **Location / Context:** Colombia / Independent Artistic Research
 
