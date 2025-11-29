@@ -1,18 +1,10 @@
 # INGRID-CUESTAS-VISUAL-ARTIST
 INTERACTIVE PORTFOLIO
-🌳 THE TREE OF LIFE
-Art – Science – Material Intelligence – Cosmology
-
-The Tree of Life is an interdisciplinary research project exploring the intelligence of living materials, edible biopolymers, and ecological systems through the lenses of art, ancestral knowledge, and scientific inquiry.
-
-Rooted in the relationship between matter, memory, and transformation, the project investigates how materials behave, evolve, and communicate across different substrates — earth, sea, and waterfall — shaping a living archive of degradation, regeneration, and transmutation.
-
-This repository presents my artistic research universe and its central branches:
-The Tree of Life, Entelia (material intelligence), and the video-art ecosystem that documents microscopic, ecological, and ritual transformations.
+Art – Science – Technology - Material Intelligence – Cosmology
 
 🌿 ABOUT THE ARTIST — INGRID CUESTAS
 
-Colombian–Brazilian interdisciplinary visual artist working across expanded drawing, edible biopolymers, ecological installation, sensory design, video-art, and speculative futures.
+Colombian interdisciplinary visual artist working across art, science, technology, and alchemy, using different languages as expanded drawing, edible biopolymers, multimedia installation, sensory experiences, video-art, and speculative futures.
 
 My practice moves between the micro and the cosmic, weaving together:
 
@@ -20,7 +12,7 @@ Material ecology
 
 Ancestral and botanical knowledge
 
-Food and biodesign
+Food and bio-based materials
 
 Cosmology and symbolic systems
 
