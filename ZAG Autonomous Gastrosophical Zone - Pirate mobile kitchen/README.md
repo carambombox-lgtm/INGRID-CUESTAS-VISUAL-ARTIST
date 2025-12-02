@@ -53,7 +53,9 @@ You can upload:
 - process images  
 - installation shots
 
-(We will add them later.)
+[![ZAG Video](thumbnail.jpg)](https://www.youtube.com/watch?v=S2MsKf0ug6E)
+
+
 
 ---
 
