@@ -52,9 +52,9 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 
 )
 ![Street Activation](![ZAG2](https://github.com/user-attachments/assets/f7a69759-05a2-4d01-85b2-316bd5b42462)
-)
+
 ![Sketch / Concept](![ZAGboceto](https://github.com/user-attachments/assets/e607b2bd-5eec-49c6-9ad5-e83041225a84)
-)
+
 
 ### Videos
 [![ZAG Video](zag_video_thumbnail.jpg)](https://www.youtube.com/watch?v=S2MsKf0ug6E)  
