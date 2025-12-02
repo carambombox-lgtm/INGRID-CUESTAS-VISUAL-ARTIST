@@ -40,22 +40,22 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 - Collaborative urban kitchens  
 - Community gatherings  
 
-*(You can add exact events later.)*
+*(Add exact events later)*
 
 ---
 
-## Images & Documentation
+## Gallery
 
-You can upload:  
-- photos of performances  
-- drawings  
-- menus  
-- process images  
-- installation shots
+### Images
+![ZAG Mobile Kitchen](zag_mobile_kitchen.jpg)
+![Street Activation](zag_street.jpg)
+![Sketch / Concept](zag_sketch.jpg)
 
-[![ZAG Video](thumbnail.jpg)](https://www.youtube.com/watch?v=S2MsKf0ug6E)
+### Videos
+[![ZAG Video](zag_video_thumbnail.jpg)](https://www.youtube.com/watch?v=S2MsKf0ug6E)  
+[![Street Performance Video](zag_video_thumbnail2.jpg)](https://youtu.be/YOUR_VIDEO_LINK_2)
 
-
+> *Click the image to watch the video.*
 
 ---
 
