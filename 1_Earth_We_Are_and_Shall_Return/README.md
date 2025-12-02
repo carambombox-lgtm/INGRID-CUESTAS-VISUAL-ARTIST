@@ -1,7 +1,7 @@
 # Earth We Are and Shall Return
 
 **Years:** 2021 – 2023  
-**Medium / Format:** Multidisciplinary (performance, culinary ritual, installation, video)  
+**Medium / Format:** Multidisciplinary (performance, culinary ritual, alchemical laboratory, installation, video)  
 **Location / Context:** Colombia / Independent Artistic Research
 
 ## Description
@@ -11,7 +11,7 @@ Winner of the Open Call Visions of Transformations to Sustainability by Fraunhof
 This project highlights Ingrid’s artistic research practice, centered on materiality, transformation, and the connection between human experience and organic processes. It demonstrates her interest in multisensory methodologies, expanded performance, and ecological narratives—elements directly relevant to faculty groups focusing on art & science, post-natural ecologies, material research, and embodied knowledge.
 
 ## Embedded Media
-- **Videos:** (YouTube links will be inserted)  
+- **Videos:** (https://youtu.be/HjLLQljQpGk?si=UqID6zK8dszg8vhN))  
 - **Images:** See the `/images` folder  
 - **Documentation:** See the `/documentation` folder
 
