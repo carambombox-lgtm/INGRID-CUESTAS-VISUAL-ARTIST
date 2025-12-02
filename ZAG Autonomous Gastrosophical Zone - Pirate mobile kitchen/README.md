@@ -56,9 +56,17 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 ![Sketch / Concept](![ZAGboceto](https://github.com/user-attachments/assets/e607b2bd-5eec-49c6-9ad5-e83041225a84)
 
 
-### Videos
-[![ZAG Video](zag_video_thumbnail.jpg)](https://www.youtube.com/watch?v=S2MsKf0ug6E)  
-[![Street Performance Video](zag_video_thumbnail2.jpg)](https://youtu.be/YOUR_VIDEO_LINK_2)
+## Videos
+
+### Video 1 — ZAG Laboratory
+[![ZAG Video 1](video1_thumbnail.jpg)](https://youtu.be/S2MsKf0ug6E)
+
+### Video 2 — Pirate Mobile Kitchen in Action
+[![ZAG Video 2](video2_thumbnail.jpg)](https://youtu.be/d4UoWzP2Ur8)
+
+### Video 3 — Street Activation
+[![ZAG Video 3](video3_thumbnail.jpg)](https://youtu.be/QQDoWyuo7-g)
+
 
 > *Click the image to watch the video.*
 
