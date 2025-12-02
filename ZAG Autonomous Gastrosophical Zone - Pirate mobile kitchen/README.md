@@ -52,7 +52,7 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 
 ZAG Autonomous Gastrosophical Zone - Pirate mobile kitchen/Gastrosophia_Kennediensis (1)-3_page-0001.jpg
 
-![Sketch / Concept](![ZAGboceto](https://github.com/user-attachments/assets/e607b2bd-5eec-49c6-9ad5-e83041225a84)
+![Sketch / Concept](![ZAGboceto]ZAG Autonomous Gastrosophical Zone - Pirate mobile kitchen/ZAGboceto.jpg
 
 
 ## Videos
