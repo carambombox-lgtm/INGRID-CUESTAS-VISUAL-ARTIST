@@ -58,13 +58,13 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 
 ## Videos
 
-### Video 1 — ZAG Laboratory
+### Video 1 — ZAG 4 Laboratory
 [![ZAG Video 1](video1_thumbnail.jpg)](https://youtu.be/S2MsKf0ug6E)
 
-### Video 2 — Pirate Mobile Kitchen in Action
+### Video 2 — Pirate Mobile Kitchen in Action ZAG 3
 [![ZAG Video 2](video2_thumbnail.jpg)](https://youtu.be/d4UoWzP2Ur8)
 
-### Video 3 — Street Activation
+### Video 3 — ZAG 2 activation
 [![ZAG Video 3](video3_thumbnail.jpg)](https://youtu.be/QQDoWyuo7-g)
 
 
