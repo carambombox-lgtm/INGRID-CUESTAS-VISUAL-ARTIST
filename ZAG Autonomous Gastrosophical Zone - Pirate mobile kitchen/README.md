@@ -50,6 +50,8 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 ![ZAG Mobile Kitchen](<img width="2800" height="2219" alt="ZAG4" src="https://github.com/user-attachments/assets/90066b09-3253-4ba0-9433-53c6e901d356" />)
 ![Street Activation](![ZAG2](https://github.com/user-attachments/assets/f7a69759-05a2-4d01-85b2-316bd5b42462)
 
+ZAG Autonomous Gastrosophical Zone - Pirate mobile kitchen/ZAG1EQUIPO
+
 ![ZAG Boceto](ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pirate%20mobile%20kitchen/zagboceto.jpg)
 import os, urllib.parse
 folder = "ZAG Autonomous Gastrosophical Zone - Pirate mobile kitchen"
