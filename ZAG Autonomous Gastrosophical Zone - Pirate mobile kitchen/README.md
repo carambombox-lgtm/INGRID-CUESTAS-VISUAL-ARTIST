@@ -54,6 +54,9 @@ ZAG Autonomous Gastrosophical Zone - Pirate mobile kitchen/Gastrosophia_Kennedie
 
 ![ZAG Boceto](ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pira/zagboceto.jpg)
 
+ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pirate%20mobile%20kitchen
+
+
 
 
 ## Videos
