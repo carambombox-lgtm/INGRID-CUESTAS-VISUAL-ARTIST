@@ -51,6 +51,16 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 ![Street Activation](![ZAG2](https://github.com/user-attachments/assets/f7a69759-05a2-4d01-85b2-316bd5b42462)
 
 ![ZAG Boceto](ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pirate%20mobile%20kitchen/zagboceto.jpg)
+import os, urllib.parse
+folder = "ZAG Autonomous Gastrosophical Zone - Pirate mobile kitchen"
+out = "README_images.md"
+with open(out, "w", encoding="utf-8") as f_out:
+    for name in sorted(os.listdir(folder)):
+        path = os.path.join(folder, name)
+        if os.path.isfile(path):
+            enc_folder = urllib.parse.quote(folder, safe='')
+            f_out.write(f"![{name}]({enc_folder}/{name})\n\n")
+print("Wrote", out)
 
 
 
