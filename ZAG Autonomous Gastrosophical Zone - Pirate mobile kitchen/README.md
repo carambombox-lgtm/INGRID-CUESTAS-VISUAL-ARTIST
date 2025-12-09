@@ -27,7 +27,7 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 
 ## Methodology
 
-- Portable kitchen modules adapted to each location  
+- Portable kitchen interventional device adaptable to each location  
 - Improvised and site-responsive menus  
 - Collaboration with local communities  
 - Spontaneous workshops and micro-rituals  
