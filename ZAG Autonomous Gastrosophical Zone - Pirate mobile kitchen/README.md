@@ -1,9 +1,10 @@
-## ZAG — Autonomous Gastrosophical Zone
+# ZAG — Autonomous Gastrosophical Zone
 ### *Pirate Mobile Kitchen*
 
-**ZAG** is a nomadic, experimental, and autonomous kitchen-performance project designed to intervene in public space through food, hospitality, and collective imagination.
+[![ZAG Autonomous Gastrosophical Zone](ZAG4.png)](https://youtu.be/S2MsKf0ug6E)
 
-This “pirate kitchen” operates at the intersection of **gastrosofía**, **artistic activism**, and **situated performance**, transforming everyday ingredients into radical gestures of community, resistance, and poetic nourishment.
+**ZAG** is a nomadic, experimental, and autonomous kitchen-performance project designed to intervene in public space through food, hospitality, and collective imagination.  
+Click the banner above to watch the video overview.
 
 ---
 
@@ -47,39 +48,28 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 ## Gallery
 
 ### Images
-![ZAG-2](ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pirate%20mobile%20kitchen/ZAG-2.jpg)
+- `ZAG-2.jpg`  
+- `ZAG1EQUIPO.jpg`  
+- `ZAG1GOPRO.jpg`  
+- `ZAG2.jpg`  
+- `ZAG4.png`  
+- `ZAGboceto.jpg`  
 
-![ZAG1EQUIPO](ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pirate%20mobile%20kitchen/ZAG1EQUIPO.jpg)
+*(Click on images to view larger in GitHub)*
 
-![ZAG1GOPRO](ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pirate%20mobile%20kitchen/ZAG1GOPRO.jpg)
-
-![ZAG2](ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pirate%20mobile%20kitchen/ZAG2.jpg)
-
-![ZAG4](ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pirate%20mobile%20kitchen/ZAG4.png)
-
-![ZAGboceto](ZAG%20Autonomous%20Gastrosophical%20Zone%20-%20Pirate%20mobile%20kitchen/ZAGboceto.jpg)
-
-
-
+---
 
 ## Videos
 
-### Video 1 — ZAG 4 Laboratory
-[![ZAG Video 1](video1_thumbnail.jpg)](https://youtu.be/S2MsKf0ug6E)
+- [ZAG 4 Laboratory](https://youtu.be/S2MsKf0ug6E)  
+- [Pirate Mobile Kitchen in Action ZAG 3](https://youtu.be/d4UoWzP2Ur8)  
+- [ZAG 2 Activation](https://youtu.be/QQDoWyuo7-g)  
 
-### Video 2 — Pirate Mobile Kitchen in Action ZAG 3
-[![ZAG Video 2](video2_thumbnail.jpg)](https://youtu.be/d4UoWzP2Ur8)
-
-### Video 3 — ZAG 2 activation
-[![ZAG Video 3](video3_thumbnail.jpg)](https://youtu.be/QQDoWyuo7-g)
-
-
-> *Click the image to watch the video.*
+> *Click the links to watch the videos.*
 
 ---
 
 ## Credits
 
-Concept and performance by **Ingrid Cuestas**.  
-Produced independently as part of her ongoing practice in autonomous gastronomy and situated art.
+Concept, design, and authorship by **Ingrid Cuestas**.  
 
