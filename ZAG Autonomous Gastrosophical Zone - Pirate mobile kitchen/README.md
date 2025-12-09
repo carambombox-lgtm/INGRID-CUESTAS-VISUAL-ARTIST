@@ -3,7 +3,9 @@
 
 [![ZAG Autonomous Gastrosophical Zone](ZAG4.png)](https://youtu.be/S2MsKf0ug6E)
 
-**ZAG** is a nomadic, experimental, and autonomous public intervention project. It is a mobile and portable creative laboratory with a basic kitchen structure, designed to develop multidisciplinary artistic urban interventions by collective work and collaborative processes that experiment around culinary as the society's principal meeting point, an artistic language capable of provoking every human sense, a political node, and an analog network. It was created with a foldable and removable system to be constructed in a collective, collaborative, and multidisciplinary DIWO process. The project developed four volumes in four different cities around South America: La Paz, Bolivia; São Paulo, Brazil; Medellín, Colombia; and Bogotá, Colombia.
+**ZAG** is a nomadic, experimental, and autonomous public intervention project. It starts with a DIWO process to build the pirate mobile kitchen, a portable and creative laboratory with a basic pop up kitchen structure, designed to develop multidisciplinary artistic urban interventions by collective work and collaborative processes that experiment around culinary as the society's principal meeting point, an artistic language capable of provoking every human sense, a political node, and an analog network. 
+
+It was created with a foldable and removable system to be constructed in a collective, collaborative, and multidisciplinary DIWO process. The project developed four volumes in four different cities around South America: La Paz, Bolivia; São Paulo, Brazil; Medellín, Colombia; and Bogotá, Colombia.
 
 Click the banner above to watch the video overview.
 
@@ -11,10 +13,10 @@ Click the banner above to watch the video overview.
 
 ## Concept
 
-ZAG is conceived as a **mobile gastrosophical zone**—a temporary kitchen-laboratory that appears unexpectedly in streets, parks, markets, and cultural events.  
+ZAG is conceived as an **autonomous gastrosophical zone**—a temporary kitchen-laboratory that appears unexpectedly in streets, parks, markets, art, and cultural events.  
 It challenges the boundaries between:
 
-- cooking and performance  
+- cooking and contemporary art 
 - nourishment and storytelling  
 - piracy and autonomy  
 - public rituals and spontaneous gatherings  
@@ -36,13 +38,12 @@ ZAG occupies space like a small, friendly rebellion: a pop-up territory where ea
 
 ## Past Activations
 
-- Street interventions  
+- Street interventions
+- Art exhibitions 
 - Cultural festivals  
 - Artistic residencies  
 - Collaborative urban kitchens  
 - Community gatherings  
-
-*(Add exact events later)*
 
 ---
 
