@@ -3,7 +3,8 @@
 
 [![ZAG Autonomous Gastrosophical Zone](ZAG4.png)](https://youtu.be/S2MsKf0ug6E)
 
-**ZAG** is a nomadic, experimental, and autonomous kitchen-performance project designed to intervene in public space through food, hospitality, and collective imagination.  
+**ZAG** is a nomadic, experimental, and autonomous public intervention project. It is a mobile and portable creative laboratory with a basic kitchen structure, designed to develop multidisciplinary artistic urban interventions by collective work and collaborative processes that experiment around culinary as the society's principal meeting point, an artistic language capable of provoking every human sense, a political node, and an analog network. It was created with a foldable and removable system to be constructed in a collective, collaborative, and multidisciplinary DIWO process. The project developed four volumes in four different cities around South America: La Paz, Bolivia; São Paulo, Brazil; Medellín, Colombia; and Bogotá, Colombia.
+
 Click the banner above to watch the video overview.
 
 ---
