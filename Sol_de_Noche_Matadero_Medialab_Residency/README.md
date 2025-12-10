@@ -48,6 +48,9 @@ Commitment to open-source culture and accessible citizen innovation
 Below is the full gallery of all uploaded images.  
 *(Click any image on GitHub to see it larger.)*
 
+#### Main Cover Image
+![Sol de Noche](sol_de_noche.jpg)
+
 #### Prototypes, Labs & Workshops
 ![Sol de Noche Lab](soldenochelab.jpg)
 ![Fablab Session](soldenochefablab.jpg)
@@ -69,8 +72,6 @@ Below is the full gallery of all uploaded images.
 ![Sol de Noche Page 60](SOL_DE_NOCHE60.jpg)
 ![Sol de Noche Page 70](SOL_DE_NOCHE70.jpg)
 
-#### Main Cover Image
-![Sol de Noche](sol_de_noche.jpg)
 
 
 Videos
