@@ -1,8 +1,11 @@
-Sol de Noche — Matadero Medialab Residency
+# Sol de Noche — Matadero Medialab Residency
 
-Years: 2019 – 2020
-Medium / Format: Multidisciplinary — creative laboratory, installation, audiovisual, collaborative
-Location / Context: Madrid, Spain
+[![Sol de Noche Banner](./SOL_DE_NOCHEBANNER.jpg)](https://youtu.be/XhJcwrUo1GQ?si=rHNHfzppoVAakldl)
+
+**Years:** 2019 – 2020  
+**Medium / Format:** Multidisciplinary — creative laboratory, installation, audiovisual, collaborative  
+**Location / Context:** Madrid, Spain
+
 
 Sol de Noche emerged from my inquiry into how art can contribute to buen vivir through relational, political, and multidisciplinary practices. Anchored in a maker spirit, collaborative work, and my gastrosophical manifesto, the project positions the kitchen as a site of encounter, an artistic language capable of transforming the senses, and a nucleus of political action within an ecology of care.
 
