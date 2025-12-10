@@ -86,7 +86,7 @@ Credits
 Concept, research, and creation:
 Ingrid Cuestas
 
-Collaborators included:
+Collaborators:
 Navil Alcántara
 Iván Born (Cocina Microbiótica)
 Norelys Correa
